@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "VOY@GER",
+  "base_artist": "THE IDOLM@STER FIVE STARS!!!!!",
+  "createdAt": "2025-12-02T12:16:15.572896Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "VOY@GER",
+      "artist": "THE IDOLM@STER FIVE STARS!!!!!",
+      "has_synced": true,
+      "path": "select/01_VOY@GER_THE_IDOLM@STER_FIVE_STARS!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "VOY@GER (SideM Version)",
+      "artist": "315 STARS (Kyoji Takajo, Genbu Kurono, Chris Koron)",
+      "has_synced": true,
+      "path": "select/02_VOY@GER_(SideM_Version)_315_STARS_(Kyoji_Takajo,_Genbu_Kurono,_Chris_Koron).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "VOY@GER",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/03_VOY@GER_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "VOY@GER - シャイニーカラーズVer.",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/04_VOY@GER_-_シャイニーカラーズVer._シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "VOY@GER (Off Vocal)",
+      "artist": "THE IDOLM@STER FIVE STARS!!!!!",
+      "has_synced": true,
+      "path": "select/05_VOY@GER_(Off_Vocal)_THE_IDOLM@STER_FIVE_STARS!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VOY@GER",
+      "artist": "THE IDOLM@STER FIVE STARS!!!!!",
+      "has_synced": true,
+      "path": "select/06_VOY@GER_THE_IDOLM@STER_FIVE_STARS!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "VOY@GER (黒野玄武 ソロVer.)",
+      "artist": "THE IDOLM@STER FIVE STARS!!!!!",
+      "has_synced": true,
+      "path": "select/07_VOY@GER_(黒野玄武_ソロVer.)_THE_IDOLM@STER_FIVE_STARS!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "VOY@GER (SideM Ver.)",
+      "artist": "THE IDOLM@STER FIVE STARS!!!!!",
+      "has_synced": true,
+      "path": "select/08_VOY@GER_(SideM_Ver.)_THE_IDOLM@STER_FIVE_STARS!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "VOY@GER (鷹城恭二 ソロVer.)",
+      "artist": "THE IDOLM@STER FIVE STARS!!!!!",
+      "has_synced": true,
+      "path": "select/09_VOY@GER_(鷹城恭二_ソロVer.)_THE_IDOLM@STER_FIVE_STARS!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "VOY@GER (シャイニーカラーズ Ver.)",
+      "artist": "シャイニーカラーズ (涼本あきほ, 幸村恵理, 和久井優)",
+      "has_synced": true,
+      "path": "select/10_VOY@GER_(シャイニーカラーズ_Ver.)_シャイニーカラーズ_(涼本あきほ,_幸村恵理,_和久井優).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "VOY@GER (Off Vocal)",
+      "artist": "THE IDOLM@STER FIVE STARS!!!!!",
+      "has_synced": true,
+      "path": "select/11_VOY@GER_(Off_Vocal)_THE_IDOLM@STER_FIVE_STARS!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "VOY@GER (有栖川夏葉 Ver.)",
+      "artist": "有栖川夏葉 (涼本あきほ)",
+      "has_synced": false,
+      "path": "select/12_VOY@GER_(有栖川夏葉_Ver.)_有栖川夏葉_(涼本あきほ).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "VOY@GER (浅倉 透 Ver.)",
+      "artist": "浅倉透 (和久井優)",
+      "has_synced": false,
+      "path": "select/13_VOY@GER_(浅倉_透_Ver.)_浅倉透_(和久井優).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "VOY@GER",
+      "artist": "THE IDOLM@STER FIVE STARS!!!!!",
+      "has_synced": true,
+      "path": "select/14_VOY@GER_THE_IDOLM@STER_FIVE_STARS!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "VOY@GER (黛 冬優子 Ver.)",
+      "artist": "黛冬優子 (幸村恵理)",
+      "has_synced": false,
+      "path": "select/15_VOY@GER_(黛_冬優子_Ver.)_黛冬優子_(幸村恵理).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "VOY@GER SideM Ver.",
+      "artist": "315 STARS (鷹城恭二、黒野玄武、古論クリス)",
+      "has_synced": true,
+      "path": "select/16_VOY@GER_SideM_Ver._315_STARS_(鷹城恭二、黒野玄武、古論クリス).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VOY@GER",
+      "artist": "THE IDOLM@STER FIVE STARS!!!!!",
+      "has_synced": false,
+      "path": "select/pl_01_VOY@GER_THE_IDOLM@STER_FIVE_STARS!!!!!.txt"
+    }
+  ]
+}
